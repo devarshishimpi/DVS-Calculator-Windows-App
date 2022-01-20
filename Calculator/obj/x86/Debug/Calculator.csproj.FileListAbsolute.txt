@@ -20,3 +20,13 @@ C:\Users\Om\Downloads\Visual C# - Projects\DVS Calculator\Calculator\obj\x86\Deb
 C:\Users\Om\Downloads\Visual C# - Projects\DVS Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
 C:\Users\Om\Downloads\Visual C# - Projects\DVS Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
 C:\Users\Om\Downloads\Visual C# - Projects\DVS Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\bin\Debug\Calculator.exe
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\bin\Debug\Calculator.pdb
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.Form2.resources
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Debug\Calculator.pdb

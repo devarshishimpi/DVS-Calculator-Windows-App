@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31321.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{87CD56E6-3886-4ACD-9FE9-9E966BCEBC20}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{CECCE0E8-5E83-4A71-8343-69FEB3CAD75A}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DVS Calculator Setup", "DVS Calculator Setup\DVS Calculator Setup.vdproj", "{2E6BA06F-0B7A-4DCF-B69B-E86E811605B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{87CD56E6-3886-4ACD-9FE9-9E966BCEBC20}.Debug|x86.Build.0 = Debug|x86
 		{87CD56E6-3886-4ACD-9FE9-9E966BCEBC20}.Release|x86.ActiveCfg = Release|x86
 		{87CD56E6-3886-4ACD-9FE9-9E966BCEBC20}.Release|x86.Build.0 = Release|x86
-		{CECCE0E8-5E83-4A71-8343-69FEB3CAD75A}.Debug|x86.ActiveCfg = Debug
-		{CECCE0E8-5E83-4A71-8343-69FEB3CAD75A}.Release|x86.ActiveCfg = Release
+		{2E6BA06F-0B7A-4DCF-B69B-E86E811605B9}.Debug|x86.ActiveCfg = Debug
+		{2E6BA06F-0B7A-4DCF-B69B-E86E811605B9}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
