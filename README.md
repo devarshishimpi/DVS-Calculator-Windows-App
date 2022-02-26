@@ -2,6 +2,7 @@
 
 Official DVS Tech Calculator App For Windows
 
+v1.6.0
 
 ## Contributing
 
