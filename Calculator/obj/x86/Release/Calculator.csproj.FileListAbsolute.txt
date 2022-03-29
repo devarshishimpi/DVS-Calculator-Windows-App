@@ -25,3 +25,5 @@ C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Re
 C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Release\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Release\Calculator.exe
 C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Release\Calculator.pdb
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\bin\Release\Calculator.exe.config
+C:\Users\devar\Documents\GitHub\DVS-Calculator-Windows-App\Calculator\obj\x86\Release\Calculator.csproj.SuggestedBindingRedirects.cache
