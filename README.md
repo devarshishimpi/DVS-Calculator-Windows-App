@@ -1,6 +1,6 @@
 # DVS Calculator Windows App
 
-A easy to use. Open-source Calculator App supported by community for Windows.
+The Only Calculator App You'll Ever Need.
 
 v1.7.0
 
