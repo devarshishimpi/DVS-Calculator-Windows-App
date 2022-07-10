@@ -29,10 +29,6 @@ Download Links Alternatives : Visit DVS Tech App Store and Get the Latest Stable
 
 If you have any feedback, please reach out to us at devarshishimpi@gmail.com
 
-## Support
-
-For support, email devarshishimpi@gmail.com
-
 ## Installation
 
 Install DVS Calculator using any of these 3 ways
@@ -57,3 +53,13 @@ Method 3 : Manually Download and Compile Source Code
 
 ![App Screenshot](3.png)
 
+
+## Support US
+
+![Vultr Trial](vultr-try.JPG)
+https://www.vultr.com/?ref=9043736
+
+![Honeygain Trial](honeygain-try.JPG)
+https://r.honeygain.me/DEVARBD8B7
+
+<a href="https://www.producthunt.com/posts/dvs-calculator?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dvs&#0045;calculator" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=352088&theme=light" alt="DVS&#0032;Calculator - The&#0032;Only&#0032;Calculator&#0032;App&#0032;You&#0039;ll&#0032;Ever&#0032;Need&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
