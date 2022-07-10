@@ -55,13 +55,8 @@ Method 3 : Manually Download and Compile Source Code
 
 
 ## Support US
+<a href="https://www.vultr.com/?ref=9043736" target="_blank"><img src="vultr-try.JPG"/></a>
 
-![Vultr Trial](vultr-try.JPG)
-
-https://www.vultr.com/?ref=9043736
-
-![Honeygain Trial](honeygain-try.JPG)
-
-https://r.honeygain.me/DEVARBD8B7
+<a href="https://r.honeygain.me/DEVARBD8B7" target="_blank"><img src="honegain-try.JPG"/></a>
 
 <a href="https://www.producthunt.com/posts/dvs-calculator?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dvs&#0045;calculator" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=352088&theme=light" alt="DVS&#0032;Calculator - The&#0032;Only&#0032;Calculator&#0032;App&#0032;You&#0039;ll&#0032;Ever&#0032;Need&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
