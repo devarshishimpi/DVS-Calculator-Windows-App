@@ -23,9 +23,9 @@ Please adhere to this project's `code of conduct`.
 - Open Source and Actively Maintained
 - About Section with Version Details
 
-Note : Read LICENSE before use of any of DVS Tech Open Source Projects
+Note : Read LICENSE before using any of DVS Tech Open Source Projects.
 
-Download Links Alternatives : Visit DVS Tech App Store and Get the Latest Stable Build
+Download Links Alternatives : Visit DVS Tech App Store and Get the Latest Stable Build.
 
 ## Feedback
 
@@ -33,7 +33,7 @@ If you have any feedback, please reach out to us at devarshishimpi@gmail.com
 
 ## Installation
 
-Install DVS Calculator using any of these 3 ways
+Install DVS Calculator using any of these 3 ways:
 
 ![Border](images/border.png)
 
@@ -62,7 +62,7 @@ Method 3 : Manually Download and Compile Source Code
 
 ## Support
 
-If you would like to support me, you can support on any of the below platforms.
+If you would like to support me, you can support on any of the platforms below"
 
 ![Border](images/border.png)
 
